@@ -2,11 +2,11 @@
 
 **Problem Identification**
 
-    This project analyze the behavior of **Fin-Tech** customers. Its a financial app, having two version namely free, and premium. The free version contain basic features and advance features the user has to enroll. The aim of this project is to sell the premium version in low budget. But, how to find the customers to purchase the subscription of financial app? Offers will be given to those who are interested in premium version. And for that, customers behavior will be analyzed for 24 hours.
+   This project analyze the behavior of **Fin-Tech** customers. Its a financial app, having two version namely free, and premium. The free version contain basic features and advance features the user has to enroll. The aim of this project is to sell the premium version in low budget. But, how to find the customers to purchase the subscription of financial app? Offers will be given to those who are interested in premium version. And for that, customers behavior will be analyzed for 24 hours.
     
 **Goal**    
     
-    The main goal of the company is to sell the premium version app with low advertisement cost. 
+   The main goal of the company is to sell the premium version app with low advertisement cost. 
  
 **Lets Get Started**
 
@@ -42,7 +42,7 @@ Cross Validation
    
    * Correlation barplot:
    
-         Visualizing the features to know which one is strongly correlated with ‘enrolled’ through barplot.
+        Visualizing the features to know which one is strongly correlated with ‘enrolled’ through barplot.
          
 **Feature Selection**
 
